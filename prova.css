@@ -1,0 +1,22 @@
+body{background-color: black;}
+
+
+
+.carro{text-align: center;
+    color: rgb(117, 117, 117);
+
+
+}
+   
+.car1{text-align: center;
+color: rgb(167, 167, 167);
+}
+
+
+#gt{ padding-left: 600px;
+    width: 600px;
+}
+
+.car2{padding-left: 200px;}
+
+.car3{padding-left: 400px;}
